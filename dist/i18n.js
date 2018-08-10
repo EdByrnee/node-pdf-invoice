@@ -1,7 +1,15 @@
 'use strict';
 
 module.exports = {
-  en_US: {},
+  en_US: {
+    createdAt: 'Created At',
+    amount: 'Total',
+    chargeStatus: 'Paid Status',
+    chargeFor: 'Item: ',
+    description: 'Description',
+    name: 'Name',
+    quantity: 'Quantity',
+  },
   pt_BR: {
     createdAt: 'Criado em',
     amount: 'Total',
@@ -9,6 +17,6 @@ module.exports = {
     chargeFor: 'Cobrança para: ',
     description: 'Descrição',
     name: 'Nome',
-    quantity: 'Quantidade'
-  }
-};
+    quantity: 'Quantidade',
+  },
+}
