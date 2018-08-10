@@ -1,5 +1,6 @@
 This is the English forked version of: pdf-invoice
 ===========
+Thank you to Astrocoders for creating this package.
 
 # Install
 ```
