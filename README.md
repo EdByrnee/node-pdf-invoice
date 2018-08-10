@@ -1,4 +1,4 @@
-pdf-invoice
+This is the English forked version of: pdf-invoice
 ===========
 
 # Install
